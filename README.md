@@ -12,7 +12,7 @@ Aprendizado contínuo e troca de conhecimento
 Projetos que unem criatividade e funcionalidade
 
 
-PROJETO PRINCIPAL
+⚙️ PROJETO PRINCIPAL ⚙️
 ---
 Criar um aplicativo de música versátil, que permite ao usuário personalizar a interface de acordo com suas preferências.
 Oferece uma experiência limpa, sem anúncios, e traz recursos inovadores para tornar a reprodução e a organização das músicas mais práticas e agradáveis.
