@@ -10,6 +10,7 @@ Desenvolvimento colaborativo e boas práticas de código
 Aprendizado contínuo e troca de conhecimento
 
 Projetos que unem criatividade e funcionalidade
+
 ---
 
 ## 🚀 Minhas Skills
