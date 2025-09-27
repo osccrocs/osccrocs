@@ -23,6 +23,3 @@ Projetos que unem criatividade e funcionalidade
 
 ---
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
