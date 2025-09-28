@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/336c3970-8ff0-4c79-85ea-45a85042ac24
+
+
 ## ✨ Olá, nós somos os CROCS! ✨
 
 Somos um grupo de quatro programadores apaixonados por tecnologia e desenvolvimento de software.
