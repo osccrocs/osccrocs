@@ -1,5 +1,6 @@
-
-<img width="770" height="384" alt="image" src="https://github.com/user-attachments/assets/5e02deda-751e-4c5a-953f-7bab4e645949" />
+<div align="center">
+<img width="770" src="https://github.com/user-attachments/assets/5e02deda-751e-4c5a-953f-7bab4e645949" alt = "cover" />
+</div>
 
 ## ✨ Olá, nós somos os CROCS! ✨
 
