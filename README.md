@@ -1,6 +1,5 @@
 
-![crocs banenr)](https://github.com/user-attachments/assets/fd43a75c-564f-4d8d-a11f-1602aa468656)
-
+<img width="770" height="384" alt="image" src="https://github.com/user-attachments/assets/5e02deda-751e-4c5a-953f-7bab4e645949" />
 
 ## ✨ Olá, nós somos os CROCS! ✨
 
